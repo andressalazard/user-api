@@ -5,7 +5,7 @@ Node JS / Typescript application Training
 API for manage users and roles to search data to a web application
 
 # Requirements 
--- Node 20 or Latest
+- Node 20 or Latest
 - Postgres
 
 # Install
